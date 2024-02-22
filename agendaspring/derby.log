@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Feb 03 18:02:14 BRT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-70c7-6b67-000001600bd0 
+on database directory /home/klausmerini/eclipse/jee-2023-09/agendaspring/agendaDerby with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+Loaded from file:/home/klausmerini/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.9+9
+user.dir=/home/klausmerini/eclipse/jee-2023-09/agendaspring
+os.name=Linux
+os.arch=amd64
+os.version=5.0.11
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Feb 03 18:02:15 BRT 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Feb 03 18:02:15 BRT 2024:
+Shutting down instance a816c00e-018d-70c7-6b67-000001600bd0 on database directory /home/klausmerini/eclipse/jee-2023-09/agendaspring/agendaDerby with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 
+----------------------------------------------------------------
